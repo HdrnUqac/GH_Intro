@@ -8,3 +8,7 @@ Here we will introduce GitHub
 # R packages
 
 Here we will introduce really small R packages
+
+# Learning
+
+With this tutorial we will get new skills about pulling files from GitHub
